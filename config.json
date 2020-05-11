@@ -1,0 +1,6 @@
+{
+  "accessToken": "your token",
+  "sourceFolder": "path/to/source",
+  "destinationFolder": "path/to/destination",
+  "currentDirectory": "path/to/current/directory"
+}
