@@ -1,3 +1,5 @@
-Super Quick Python Automation Ideas
+# super_quick_python_projects
+
+Super Quick Python Automation Ideas!
 
 https://youtu.be/tiGmbB8Nfn4
